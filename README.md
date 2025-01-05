@@ -20,4 +20,3 @@
 * Consider adding more details about the project's implementation (e.g., data structures used, algorithms employed).
 * If you have any unique features or improvements to the basic system, be sure to highlight them in the description.
 
-I hope this helps! Let me know if you have any other questions.
